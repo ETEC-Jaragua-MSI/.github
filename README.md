@@ -100,7 +100,7 @@ Ao concluir a disciplina, o aluno será capaz de:
 ### Complementar
 - ISACA. *COBIT 2019 Framework: Introduction and Methodology*. Rolling Meadows: ISACA, 2018.
 - AXELOS. *ITIL Foundation: ITIL 4 Edition*. Norwich: TSO, 2019.
-- ABNT. *NBR ISO/IEC 27001:2013 — Tecnologia da informação — Técnicas de segurança*. Rio de Janeiro: ABNT, 2013.
+- ABNT. *NBR ISO/IEC 27001:2022 — Tecnologia da informação — Técnicas de segurança*. Rio de Janeiro: ABNT, 2022.
 - Brasil. *Lei nº 13.709/2018 — Lei Geral de Proteção de Dados Pessoais (LGPD)*. Brasília: Diário Oficial da União, 2018.
 
 ---
