@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Sobre a Disciplina
+## Sobre a Disciplina
 
 **Governação de TI** (ou Governança de TI) é a disciplina que estuda os mecanismos, frameworks e boas práticas que garantem o uso estratégico, seguro e eficiente dos recursos de Tecnologia da Informação dentro de uma organização.
 
@@ -12,7 +12,7 @@ No contexto do curso técnico de **Manutenção e Suporte de Informática (MSI)*
 
 ---
 
-## 🎯 Objetivos da Disciplina
+## Objetivos da Disciplina
 
 - Compreender os fundamentos de Governança de TI e sua importância nas organizações.
 - Conhecer os principais frameworks e normas do mercado (COBIT, ITIL, ISO/IEC 27000).
@@ -23,7 +23,7 @@ No contexto do curso técnico de **Manutenção e Suporte de Informática (MSI)*
 
 ---
 
-## 📚 Conteúdo Programático
+## Conteúdo Programático
 
 ### 1. Fundamentos de Governança de TI
 - Conceito e importância da Governança de TI
@@ -67,7 +67,7 @@ No contexto do curso técnico de **Manutenção e Suporte de Informática (MSI)*
 
 ---
 
-## 🛠 Competências Desenvolvidas
+## Competências Desenvolvidas
 
 Ao concluir a disciplina, o aluno será capaz de:
 
@@ -80,7 +80,7 @@ Ao concluir a disciplina, o aluno será capaz de:
 
 ---
 
-## 📋 Avaliação
+## Avaliação
 
 | Instrumento | Peso |
 |---|---|
@@ -90,7 +90,7 @@ Ao concluir a disciplina, o aluno será capaz de:
 
 ---
 
-## 📖 Bibliografia
+## Bibliografia
 
 ### Básica
 - **WEILL, P.; ROSS, J. W.** *Governança de TI — Tecnologia da Informação*. São Paulo: M.Books, 2006.
@@ -105,7 +105,7 @@ Ao concluir a disciplina, o aluno será capaz de:
 
 ---
 
-## 🔗 Recursos e Links Úteis
+## Recursos e Links Úteis
 
 - [ISACA — COBIT](https://www.isaca.org/resources/cobit)
 - [AXELOS — ITIL](https://www.axelos.com/best-practice-solutions/itil)
@@ -115,7 +115,7 @@ Ao concluir a disciplina, o aluno será capaz de:
 
 ---
 
-## 🏫 Sobre o Curso
+## Sobre o Curso
 
 O **Curso Técnico de Manutenção e Suporte de Informática (MSI)** da **ETEC Jaraguá** habilita o estudante para instalar, configurar, manter e suportar equipamentos de informática e redes de computadores, com ênfase em boas práticas de gestão de serviços e segurança da informação.
 
